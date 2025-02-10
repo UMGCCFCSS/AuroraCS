@@ -9,6 +9,7 @@ website:
     type: info
     position: below-navbar  
   title: "UMGCC FCSS"
+  site-path: "/Historical/"
   navbar:
     logo: images/hex.svg
     left:
@@ -33,15 +34,9 @@ website:
     - text: "Historical"
       menu:
       - text: "Cytek Aurora CS"
-        href: AuroraCS.qmd
+        href: index.qmd
     - text: "Year:"
       menu:
-      - text: "2020"
-        href: Year2020.qmd
-      - text: "2021"
-        href: Year2021.qmd
-      - text: "2022"
-        href: Year2022.qmd
       - text: "2023"
         href: Year2023.qmd
       - text: "2024"
